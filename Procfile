@@ -1,1 +1,1 @@
-web : python ./V5.py $PORT
+web: python V5.py
